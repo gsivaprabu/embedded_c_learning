@@ -1,0 +1,87 @@
+# C Programming For Beginners - Master the C Language
+## 01- Introduction
+### 01- Welcome to Class
+
+- Overview of C
+    -   efficient
+    - portabe
+    - power and flexibility
+    - programmer oriented
+-- Langauage Feature
+    - Imperative Language     
+    - Top Down Planning
+    - Structured Proghramming
+    - Modular Design
+- Advantages of using C
+    - small
+    - fast 
+    - reliable
+    - easy to understand
+- How to use vscode
+- Basic C concepts
+    - Structure of Program
+    - Comments
+    - Output using printf
+- Makefiles
+    - How to Build
+- Variables
+    - Declaring and using
+- Data Types
+    - int
+    - float
+    - double
+    - char
+    - etc
+    - enum
+- Basic Operators
+    - logical
+    - arithmetic
+    - assignment
+- Conditional Statements
+    - if
+    - switch
+- Repeating Code
+    - looping
+    - for
+    - while
+    - do-while
+- Arrays
+    - defining
+    - initializing
+    - multi dimensional
+- Functions
+    - Declaration and use
+    - Arguments and parameters
+    - Call by value
+    - Call by reference
+- Debugging
+    - Call Stack
+    - Common Mistakes
+    - Understanding compiler messages
+- Structs
+    - Initializing
+    - nested structures
+    - variants
+- Character Strings
+    - Basics
+    - Array of chars
+    - Character operations
+- Pointers
+    - Definition and use
+    - Using with functions and arrays
+    - malloc
+    - pointer arithmetic
+- The Preprocessor
+    - #define
+    - #include
+- Input and Output
+    - getchar
+    - scanf                 
+- File Input/Output
+    - Reading and writing files
+    - File operations
+- Standard C Libraries
+    - String Functions
+    - Maths 
+    - Utility
+    - Standard header files
