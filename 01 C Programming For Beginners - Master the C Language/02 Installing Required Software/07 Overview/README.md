@@ -2,5 +2,5 @@
 ## 02 Installing Required Software
 ### 07 Overview
 
--  Use Visual Studio Code
-- 
+-  Install Visual Studio Code
+-  
